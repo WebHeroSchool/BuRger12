@@ -1,0 +1,31 @@
+@media (min-width:320px){
+	.desktop-nav__item {
+		font-size: 15px;
+	}
+}
+
+@media (min-width:481px){
+	.desktop-nav__item {
+		font-size: 28px;
+	}
+} 
+@media (min-width:641px){
+	.desktop-nav__item {
+		font-size: 32px;
+	}
+} 
+@media (min-width:961px){
+	.desktop-nav__item {
+		font-size: 60px;
+	}
+} 
+@media (min-width:1025px){
+	.desktop-nav__item {
+		font-size: 100x;
+	}
+} 
+@media (min-width:1281px) {
+	.desktop-nav__item {
+		font-size: 120px;
+	}
+}
